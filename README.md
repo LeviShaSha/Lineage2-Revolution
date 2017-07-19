@@ -1,2 +1,2 @@
 # Lineage2-Revolution
-Let's Rock
+This will be the place i post links & guides
