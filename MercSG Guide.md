@@ -8,8 +8,8 @@ Facebook link here
 
 ## Part 1 Basic Guides
 ### 1.Basic Ideas(Non-Sense)
--Lineage2 Revolution is a typical Money-Or-Time game.In order to become stronger fast, u either spend $$ or hell lot of time (T_T).</br>
--Level is the most important thing in this game. Rushing for level is always the key in mobile games.</br>
+-Lineage2 Revolution is a typical Money-Or-Time game.(T_T).</br>
+-Rushing for level is always vital in mobile games like Lineage.</br>
 -The keys to enjoy this game are:</br>
 #### 1)~~Good luck!!!~~ Exquisite resource acquisition
 #### 2)~~Good luck!!!~~ Reasonable resrouce arrangements
