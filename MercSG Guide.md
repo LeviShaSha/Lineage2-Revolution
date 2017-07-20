@@ -12,8 +12,8 @@ Facebook link here
 -Rushing for level is vital in this game.</br>
 -Adena is the most important resource in this game.</br>
 -The keys to enjoy this game are:</br>
- 1)~~Good luck!!!~~ Exquisite resource acquisition</br>
- 2)~~Good luck!!!~~ Reasonable resrouce arrangements</br>
+ 1) ~~Good luck!!!~~ Exquisite resource acquisition</br>
+ 2) ~~Good luck!!!~~ Reasonable resrouce arrangements</br>
  3) Good luck!!!</br>
 
 
@@ -33,8 +33,12 @@ Everone knows to clear all quests & dungeons everyday. Why do some people have m
 **2.2 Sell Unnecessary Items**
 
 ### 4.How to get various enhancement materials?
+Everone knows to clear all quests & dungeons everyday. Why do some people have more upgrade stones/enhancement scrolls/防爆石/...?</br>
+**--> Efficient Field Hunting & Trading** </br>
 
 ### 5.How to use red diamonds?
+
+
 ### 6.How to use trade system?
 
 
