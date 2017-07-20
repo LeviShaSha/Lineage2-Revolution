@@ -11,8 +11,8 @@ Facebook link here
 -Lineage2 Revolution is a typical Money-Or-Time game.In order to become stronger fast, u either spend $$ or hell lot of time (T_T).
 -Level is the most important thing in this game. Rushing for level is always the key in mobile games.
 -The keys to enjoy this game are
-#### 1)~~Good luck!!!~~Good awareness of gain resources
-#### 2)~~Good luck!!!~~Reasonable arrangements for resources
+#### 1)~~Good luck!!!~~ Exquisite resource acquisition
+#### 2)~~Good luck!!!~~ Reasonable resrouce arrangements
 #### 3)Good luck!!! (T_T)
 
 
