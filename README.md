@@ -1,2 +1,2 @@
 # Lineage2-Revolution
-This will be the place i post links & guides
+This is ShaSha's place to post links & guides
