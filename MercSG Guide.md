@@ -9,7 +9,8 @@ Facebook link here
 ## Part 1 Basic Guides
 ### 1.Basic Ideas(Non-Sense)
 -Lineage2 Revolution is a typical Money-Or-Time game.(T_T).</br>
--Rushing for level is always vital in mobile games like Lineage.</br>
+-Rushing for level is vital in this game.</br>
+-Adena is the most important resource in this game.</br>
 -The keys to enjoy this game are:</br>
  1)~~Good luck!!!~~ Exquisite resource acquisition</br>
  2)~~Good luck!!!~~ Reasonable resrouce arrangements</br>
@@ -18,18 +19,18 @@ Facebook link here
 
 ### 2.How to level up fast?
 Everone knows to clear all quests & dungeons everyday. Why do some people level so fast?</br>
-**-->** Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!</br>
+**--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!** </br>
 
-**Sub-quest Scrolls**
-**Hot Time**
-**Efficient Field Hunting**
+**2.1 Sub-quest Scrolls**
+**2.2 Hot Time**
+**2.3 Efficient Field Hunting**
 
 ### 3.How to farm more adena?
 Everone knows to clear all quests & dungeons everyday. Why do some people have more adena to do more equipment lvl up/rune printing/...?</br>
-**-->** Sub-quest Scrolls & Sell Unnecessary Items</br>
+**--> Sub-quest Scrolls & Sell Unnecessary Items** </br>
 
-**Sub-quest Scrolls**
-**Sell Unnecessary Items**
+**2.1 Sub-quest Scrolls**
+**2.2 Sell Unnecessary Items**
 
 ### 4.How to get various enhancement materials?
 
