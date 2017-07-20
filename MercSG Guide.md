@@ -1,7 +1,7 @@
 # MercSG Lineage2 Guide
 -Stuffs here are all personal ~~crap~~ opinions of ShaSha</br> 
 -This article is applicable to all gamers regardless of how much you spend on this game</br>
--Check my youtube channel & facebook to explore more!!! Clan Members please support! </br> 
+-Checkout my youtube channel & facebook to explore more!!! Clan Members please support! </br> 
 Youtube link here
 Facebook link here
 
@@ -13,14 +13,26 @@ Facebook link here
 -The keys to enjoy this game are:</br>
  1)~~Good luck!!!~~ Exquisite resource acquisition</br>
  2)~~Good luck!!!~~ Reasonable resrouce arrangements</br>
- 3)Good luck!!!</br>
-
+ 3) Good luck!!!</br>
 
 
 ### 2.How to level up fast?
+Everone knows to clear all quests & dungeons everyday. Why do some people level so fast?
+**-->** Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!
+**Sub-quest Scrolls**
+**Hot Time**
+**Efficient Field Hunting**
+
 ### 3.How to farm more adena?
-### 4.How to use red diamonds?
-### 5.How to use trade system?
+Everone knows to clear all quests & dungeons everyday. Why do some people have more adena to do more equipment lvl up/rune printing/...?
+**-->** Sub-quest Scrolls & Sell Unnecessary Items
+**Sub-quest Scrolls**
+**Sell Unnecessary Items**
+
+### 4.How to get various enhancement materials?
+
+### 5.How to use red diamonds?
+### 6.How to use trade system?
 
 
 ## Part 2 Advanced Guides
