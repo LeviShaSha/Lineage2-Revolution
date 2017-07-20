@@ -21,8 +21,14 @@ Facebook link here
 ### 3.How to farm more adena?
 ### 4.How to use red diamonds?
 ### 5.How to use trade system?
-### 6.Trivia
 
 
 ## Part 2 Advanced Guides
+### 1.How to 
+### 2.How to 
+### 3.How to
+### 4.How to 
+### 5.Trivia
+
+
 ## Part 3 Useful links
