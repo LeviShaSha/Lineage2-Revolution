@@ -1,7 +1,7 @@
 # MercSG Lineage2 Guide
 -Stuffs here are all personal ~~crap~~ opinions of ShaSha</br> 
--This article is applicable to all gamers regardless of how much you spend on this game</br?
--Check my youtube channel & facebook to explore more!!! </br> - Clan Members Pls Support Hahaha
+-This article is applicable to all gamers regardless of how much you spend on this game</br>
+-Check my youtube channel & facebook to explore more!!! Clan Members please support! </br> 
 Youtube link here
 Facebook link here
 
