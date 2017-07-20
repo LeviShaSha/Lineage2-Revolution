@@ -17,15 +17,17 @@ Facebook link here
 
 
 ### 2.How to level up fast?
-Everone knows to clear all quests & dungeons everyday. Why do some people level so fast?
-**-->** Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!
+Everone knows to clear all quests & dungeons everyday. Why do some people level so fast?</br>
+**-->** Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!</br>
+
 **Sub-quest Scrolls**
 **Hot Time**
 **Efficient Field Hunting**
 
 ### 3.How to farm more adena?
-Everone knows to clear all quests & dungeons everyday. Why do some people have more adena to do more equipment lvl up/rune printing/...?
-**-->** Sub-quest Scrolls & Sell Unnecessary Items
+Everone knows to clear all quests & dungeons everyday. Why do some people have more adena to do more equipment lvl up/rune printing/...?</br>
+**-->** Sub-quest Scrolls & Sell Unnecessary Items</br>
+
 **Sub-quest Scrolls**
 **Sell Unnecessary Items**
 
