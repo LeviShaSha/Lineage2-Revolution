@@ -11,9 +11,9 @@ Facebook link here
 -Lineage2 Revolution is a typical Money-Or-Time game.(T_T).</br>
 -Rushing for level is always vital in mobile games like Lineage.</br>
 -The keys to enjoy this game are:</br>
-#### 1)~~Good luck!!!~~ Exquisite resource acquisition
-#### 2)~~Good luck!!!~~ Reasonable resrouce arrangements
-#### 3)Good luck!!! (T_T)
+ 1)~~Good luck!!!~~ Exquisite resource acquisition
+ 2)~~Good luck!!!~~ Reasonable resrouce arrangements
+ 3)Good luck!!!
 
 
 
