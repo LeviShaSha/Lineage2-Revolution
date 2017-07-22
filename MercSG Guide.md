@@ -2,9 +2,8 @@
 -Stuffs here are all personal ~~crap~~ opinions of ShaSha</br> 
 -This article is applicable to all gamers regardless of how much you spend on this game</br>
 -This article won't cover 1+1=? questions, so you must have a basic understanding of how to play this game</br>
--Checkout my youtube channel & facebook to explore more!!! Clan Members please support! </br> 
-Youtube link here
-Facebook link here
+-Checkout my youtube channel to explore more!!! Clan Members please support! </br> 
+[ShaSha's Youtube Channel](https://www.youtube.com/channel/UCSKVOoMz8xz9YY_3GXrEToA)
 
 
 ## Part 1 Basic Guides
