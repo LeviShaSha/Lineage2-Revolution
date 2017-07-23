@@ -1,28 +1,28 @@
 # MercSG Lineage2 Guide
 -Stuffs here are all personal ~~crap~~ opinions of ShaSha  
--This article is applicable to all gamers regardless of how much you spend on this game</br>
--This article won't cover 1+1=? questions, so you must have a basic understanding of how to play this game</br>
--I assuming you guys are really ~~addict~~ dedicated to this game and surely finish all quests & dungeons lol</br>
--Checkout my youtube channel to explore more!!! Will update if got time </br> 
+-This article is applicable to all gamers regardless of how much you spend on this game  
+-This article won't cover 1+1=? questions, so you must have a basic understanding of how to play this game  
+-I assuming you guys are really ~~addict~~ dedicated to this game and surely finish all quests & dungeons lol  
+-Checkout my youtube channel to explore more!!! Will update if got time  
  [ShaSha's Youtube Channel](https://www.youtube.com/channel/UCSKVOoMz8xz9YY_3GXrEToA)
 
 
 ## Part 1 Basic Guides
 ### 1.Basic Ideas(Non-Sense)
--Lineage2 Revolution is a typical Money-Or-Time game.(T_T).</br>
--Rushing for level is vital in this game.</br>
--Adena is the most important resource in this game.</br>
--The keys to enjoy this game are:</br>
- 1) ~~Good luck!!!~~ Exquisite resource acquisition</br>
- 2) ~~Good luck!!!~~ Reasonable resrouce arrangements</br>
- 3) Good luck!!!</br>
+-Lineage2 Revolution is a typical Money-Or-Time game.(T_T).  
+-Rushing for level is vital in this game.  
+-Adena is the most important resource in this game.  
+-The keys to enjoy this game are:  
+ 1) ~~Good luck!!!~~ Exquisite resource acquisition  
+ 2) ~~Good luck!!!~~ Reasonable resrouce arrangements  
+ 3) Good luck!!!  
 
 
 ### 2.How to level up fast?
-**--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!** </br>
-**2.1 Sub-quest Scrolls**</br>
-**2.1.1 What is Sub-quest Scrolls & What can i get from it?**</br>
-Sub-quest scroll looks like this:</br>
+**--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!**  
+**2.1 Sub-quest Scrolls**  
+**2.1.1 What is Sub-quest Scrolls & What can i get from it?**  
+Sub-quest scroll looks like this:  
 ![alt text] (https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")</br>
 You can complete sub-quests and get rewards, which includes plenty of Exp & Adena.
 
