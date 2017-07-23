@@ -117,6 +117,11 @@ Articles:
 搜魂石(Soul Stone):
 https://forum.gamer.com.tw/G1.php?bsn=30843&parent=56
 
+装备属性洗炼(Change Substats)：
+1） http://wdtrips.com/bbs/thread-634-1-1.html
+
+2） https://guild.gamer.com.tw/wiki.php?sn=11665&n=%E6%B4%97%E9%8D%8A%E5%B1%AC%E6%80%A7&f=M
+
 
 
 
