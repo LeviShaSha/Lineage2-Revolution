@@ -22,8 +22,8 @@
 **--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!** </br>
 **2.1 Sub-quest Scrolls**</br>
 **2.1.1 What is Sub-quest Scrolls & What can i get from it?**</br>
-Sub-quest scroll looks like this:
-![alt text] (Lineage2-Revolution/Materials/sub-quest scroll.JPG)
+Sub-quest scroll looks like this:</br>
+![alt text] (https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")</br>
 You can complete sub-quests and get rewards, which includes plenty of Exp & Adena.
 
 We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest today. THIS IS HELL LOT OF EXP & ADENA!!!
