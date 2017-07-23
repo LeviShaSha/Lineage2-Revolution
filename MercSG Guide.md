@@ -23,16 +23,21 @@
 **2.1 Sub-quest Scrolls**  
 **2.1.1 What is Sub-quest Scrolls & What can i get from it?**  
 Sub-quest scroll looks like this:  
-![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")
-You can complete sub-quests and get rewards, which includes plenty of Exp & Adena.
-
+![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")  
+  
+You can complete sub-quests and get rewards, which includes plenty of Exp & Adena.  
+  
 We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest today. THIS IS HELL LOT OF EXP & ADENA!!!
+  
+**Note: Please try to use all A level scrolls.**
+  
+**2.1.1 How can i get Sub-quest Scrolls**  
+Field Hunting(Main Source), Main-quest completion Rewards(Very Few) & Common Shop.
 
-Note: Please try to use all A level scrolls.
+**2.1.2 What if i cannot get 20 A level scrolls each day by field hunting?** 
+In this case, i suggest you to buy from common shop if you are rushing levels. Though it will cost you some adena but you can get most of the adena back after finishing the quest. Again, the exp matters!
 
-**2.1.1 How can i get Sub-quest Scrolls**</br>
-Rewards for Main-quest completion, Shop & Field hunting.
-
+  
 **2.2 Hot Time**
 You can have 30 mins of Hot Time in Elite dungeon, which i think you might not utilized before. During Hot Time period, you will basically can enjoy 800% exp increase rate and 400% item drop rate. What does that mean? 
 
