@@ -1,5 +1,5 @@
 # MercSG Lineage2 Guide
--Stuffs here are all personal ~~crap~~ opinions of ShaSha</br> 
+-Stuffs here are all personal ~~crap~~ opinions of ShaSha  
 -This article is applicable to all gamers regardless of how much you spend on this game</br>
 -This article won't cover 1+1=? questions, so you must have a basic understanding of how to play this game</br>
 -I assuming you guys are really ~~addict~~ dedicated to this game and surely finish all quests & dungeons lol</br>
