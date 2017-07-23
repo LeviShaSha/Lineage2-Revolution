@@ -67,25 +67,24 @@ Definitely worth it. There are some ways to reduce the cost.
 If you are DPS, try change sub-attribute of weapon/necklace/.. to get HP-Drain.  
 If you are Mage, try to get MP Reg attribute.  
 If you are Tank, ...party up maybe...  
-
+  
 ### 3.How to farm more adena?
 **--> Sub-quest Scrolls & Sell Unnecessary Items**  
 
-#### 2.1 Sub-quest Scrolls
-Please refer to 2.1
+#### 2.1 Sub-quest Scrolls  
+Please refer to 2.1  
 
-#### 2.2 Sell Unnecessary Items
-Believe me..You really don't have to use every C equipment for Level Up...Do remember to clear your bag in the morning/at noon so that you can keep getting new items during day-time field famring.   
-
-### 4.How to get various enhancement materials?
-Everone knows to clear all quests & dungeons everyday. Why do some people have more upgrade stones/enhancement scrolls/sub-quest scrolls/防爆石/...?</br>
-**--> Efficient Field Hunting & Trading** </br>
+#### 2.2 Sell Unnecessary Items  
+Believe me..You really don't have to use every C equipment for Level Up...Do remember to clear your bag in the morning/at noon so that you can keep getting new items during day-time field famring.     
+  
+### 4.How to get various enhancement materials?  
+**--> Efficient Field Hunting & Trading**    
 
 ### 5.How to use red diamonds?
-Below are few High CP ways of using red diamonds:</br>
-**5.1 Reset Sub-quest**
-**5.1 Extend Hot Time**
-**5.2 Change 附属性 of Equipments**
+Below are few High CP ways of using red diamonds:   
+**5.1 Reset Sub-quest**  
+**5.1 Extend Hot Time**  
+**5.2 Change Sub-Attributes of Equipments**  
 
 
 
