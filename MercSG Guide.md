@@ -2,7 +2,8 @@
 -Stuffs here are all personal ~~crap~~ opinions of ShaSha</br> 
 -This article is applicable to all gamers regardless of how much you spend on this game</br>
 -This article won't cover 1+1=? questions, so you must have a basic understanding of how to play this game</br>
--Checkout my youtube channel to explore more!!! Clan Members please support! </br> 
+-I assuming you guys are really ~~addict~~ dedicated to this game and surely finish all quests & dungeons lol</br>
+-Checkout my youtube channel to explore more!!! Will update if got time </br> 
  [ShaSha's Youtube Channel](https://www.youtube.com/channel/UCSKVOoMz8xz9YY_3GXrEToA)
 
 
@@ -18,14 +19,13 @@
 
 
 ### 2.How to level up fast?
-Everone knows to clear all quests & dungeons everyday. Why do some people level so fast?</br>
 **--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!** </br>
-
 **2.1 Sub-quest Scrolls**</br>
 **2.1.1 What is Sub-quest Scrolls & What can i get from it?**</br>
-Sub-quest scroll looks like this加图片
-You can use sub-quest scroll to complete some quests and get rewards, which includes plenty of Exp & Adena.(Refer to the pic below) 
-加图片
+Sub-quest scroll looks like this:
+![alt text] (Lineage2-Revolution/Materials/sub-quest scroll.JPG)
+You can complete sub-quests and get rewards, which includes plenty of Exp & Adena.
+
 We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest today. THIS IS HELL LOT OF EXP & ADENA!!!
 
 Note: Please try to use all A level scrolls.
