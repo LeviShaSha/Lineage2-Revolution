@@ -100,3 +100,26 @@ Below are few High CP ways of using red diamonds:
 
 
 ## Part 3 Useful links
+Note: Take others' opinions as suggestion only. You need to find your own in-game path.
+
+BBS:
+团长说：https://www.youtube.com/channel/UCiJg7Z7dh3amoy9eAe_DkOw
+巴哈姆特：https://forum.gamer.com.tw/A.php?bsn=30843
+
+Articles:
+新手攻略：
+1) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=59&lorder=9&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
+
+2) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=65&lorder=1&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
+
+3) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=87&lorder=5&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
+
+搜魂石(Soul Stone):
+https://forum.gamer.com.tw/G1.php?bsn=30843&parent=56
+
+
+
+
+
+  
+  
