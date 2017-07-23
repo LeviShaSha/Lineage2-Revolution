@@ -21,12 +21,12 @@
 ### 2.How to level up fast?
 **--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!**  
 #### 2.1 Sub-quest Scroll  
-##### 2.1.1 What is Sub-quest Scrolls & What can i get from it?  
 Sub-quest scroll looks like this:  
 ![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")  
   
-By compeleting sub-quests, you can gain plenty of Exp & Adena.  
-  
+By compeleting sub-quests, you can gain plenty of Exp & Adena:
++图片
+  
 We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest today. THIS IS HELL LOT OF EXP & ADENA!!!
   
 **Note: Please try to use all A level scrolls.**
@@ -41,16 +41,41 @@ In this case, i suggest you to buy from common shop if you are rushing levels. T
 #### 2.2 Hot Time
 During Hot Time period(30 mins), you can enjoy 800% exp increase rate and 400% item drop rate in Elite Dungeon. The key to fully utilize the Hot Time is to farm the monsters near your level (+-4 lvls best). Based on my experience, during 30 mins hot time, u can gain 200+ items and tons of exp.
 
-##### 2.2.1 
-
-#### 2.3 Efficient Field Hunting**
+##### 2.2.1 Does the double exp potion stack with Hot Time?
+I can assure you - "NO. CANNOT STACK". +图片
+  
+##### 2.2.2 Should i party up for Hot Time?
+Depends.  
+-If you have enough damage, please solo farm in Hot Time to maximize your acquisition of exp & items. Try pull 3-4 monsters together, use soulshots.  
+  
+-If you are tank/heal and dont have enough damage, try party up with 1-2 to farm monsters. 5 man party is not always the best option - teamates will share your Hot Time exp and item drop lol.  
+  
+#### 2.3 Efficient Field Hunting/Farming**
+Field hunting/farming is the most important way of getting resource in this game. I spent 10+ hrs on afk field farming per day, which potentially can give me sub-quest scrolls, codex, few adena, runes, upgrade stones, enhancement scrolls, Maphr's protection and so on. Among these stuffs, the main purpose of field farming is to get enough **sub-quest scrolls & codex**.  
+##### 2.3.1 How should i choose the spot for afk field farming?    
+Step 1, find a monster near your level to farm.    
+Step 2, move to the spot of monsters & find a place got few ppl and surrounded by target monsters.    
+Step 3, start auto mode to test for a few minutes - to check whether you will die/whether you farm too slowly(Monster-clearance speed << Monster-revive speed)   
+Step 4, adjust your spot/party up/change to another monster spot/... according to your test result in step 3.   
+   
+##### 2.3.2 Should i party up for field hunting?  
+Similary to Hot time farming, please refer to 2.2.2 .  
+  
+##### 2.3.3 I found that overnight field farming waste many red/blue potions. Worth or not?  
+Definitely worth it. There are some ways to reduce the cost.  
+  
+If you are DPS, try change sub-attribute of weapon/necklace/.. to get HP-Drain.  
+If you are Mage, try to get MP Reg attribute.  
+If you are Tank, ...party up maybe...  
 
 ### 3.How to farm more adena?
-Everone knows to clear all quests & dungeons everyday. Why do some people have more adena to do more equipment lvl up/rune printing/...?</br>
-**--> Sub-quest Scrolls & Sell Unnecessary Items** </br>
+**--> Sub-quest Scrolls & Sell Unnecessary Items**  
 
-**2.1 Sub-quest Scrolls**
-**2.2 Sell Unnecessary Items**
+#### 2.1 Sub-quest Scrolls
+Please refer to 2.1
+
+#### 2.2 Sell Unnecessary Items
+Believe me..You really don't have to use every C equipment for Level Up...Do remember to clear your bag in the morning/at noon so that you can keep getting new items during day-time field famring.   
 
 ### 4.How to get various enhancement materials?
 Everone knows to clear all quests & dungeons everyday. Why do some people have more upgrade stones/enhancement scrolls/sub-quest scrolls/防爆石/...?</br>
@@ -63,10 +88,11 @@ Below are few High CP ways of using red diamonds:</br>
 **5.2 Change 附属性 of Equipments**
 
 
-### 6.How to use trade system?
+
 
 
 ## Part 2 Advanced Guides
+### 1.How to use trade system?
 ### 1.How to 
 ### 2.How to 
 ### 3.How to
