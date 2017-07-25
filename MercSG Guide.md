@@ -27,7 +27,7 @@ Sub-quest scroll looks like this:
 By compeleting sub-quests, you can gain plenty of Exp & Adena:
 ![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/Sub-quest%20scroll%20Rewards.png "Sub-quest Scroll") 
   
-We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest today. THIS IS HELL LOT OF EXP & ADENA!!!
+We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest per day. THIS IS HELL LOT OF EXP & ADENA!!!
   
 **Note: Please try to use all A level scrolls.**
   
@@ -35,14 +35,15 @@ We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of
 Field Hunting(Main Source), Main-quest completion Rewards(Very Few) & Common Shop.
 
 ##### 2.1.2 What if i cannot get 20 A level scrolls each day by field hunting?
-In this case, i suggest you to buy from common shop if you are rushing levels. Though it will cost you some adena but you can get most of the adena back after finishing the quest. Again, the exp matters!
+In this case, i suggest you to buy from common shop if you are rushing for levels. Though it will cost you some adena but you can get most of the adena back after finishing the quest. Again, the exp matters!
 
   
 #### 2.2 Hot Time
 During Hot Time period(30 mins), you can enjoy 800% exp increase rate and 400% item drop rate in Elite Dungeon. The key to fully utilize the Hot Time is to farm the monsters near your level (+-4 lvls best). Based on my experience, during 30 mins hot time, u can gain 200+ items and tons of exp.
 
 ##### 2.2.1 Does the double exp potion stack with Hot Time?
-I can assure you - "NO. CANNOT STACK". +图片
+I can assure you - "NO. CANNOT STACK".  
+![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/Tears.jpg "Sub-quest Scroll") 
   
 ##### 2.2.2 Should i party up for Hot Time?
 Depends.  
