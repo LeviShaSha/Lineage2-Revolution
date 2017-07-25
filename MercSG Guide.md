@@ -141,10 +141,15 @@ To do this kind of resale business, you must take note of some points:
   
 2) Where there is money to earn, there is risk. Market can change at any time, so make sure you can take the risk, which means you still have some blue diamonds to keep the business going on even if you fail to resell the item you buy in. If you don't really have a fortune to spare, please try this only on cheap items like the armor upgrade stone i tried before.
 
-Actually besides this resale business, I also sense some opportunity in process-then-sell business.
+Actually besides this resale business, I also sense some opportunity in process-then-sell business. For example, buy in S grade black/white soul stone, upgrade to R or SR and sell at a much higher price. Rich player always want finished product(*_*), so why dont we do the processing for them and charge! However, due to resource limitation & high risk, i haven't try this method...
 
 #### 1.5 What price should i set for my items to sell?
-  
+Depends on the current market situation lol..
+
+-For common items(those on sale every day), you have to check the current market price and set the price. Normally i set at the minimun price available (exclude outliars) in the market. E.g., Weapon enhancement scrolls, Accessory stones and so on.
+
+-For rare items, you can just set the max price. If you cannot sell at max price then gradually adjust down bit by bit lol. Be patient and sell with a good price. E.g., Rare weapon/armor, Blessed scrolls and so on.
+  
 #### 1.6 What is the key to success in trading?
 
   
