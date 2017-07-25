@@ -113,7 +113,32 @@ In the late game, you will need to change sub-stats of your equipments. Each cha
 
 ## Part 2 Advanced Guides  
 ### 1.How to use trade system?  
+Trading system is a platform for us to sell tradeable items (with blue diamonds mark). There will be min & max price limit when you sell items. And 10% fee will be taken by system when you successfully sell your item and collect payment.
+
+I myself do trading everyday and below are some screenshots of my trading rank & successful trades. In my opinion, trading system is really the place to make fortune.
+
+#### 1.1 How can i earn blue diamonds to start my business?  
+   
+#### 1.2 What items are hot on market so i know what to sell?
+  
+#### 1.3 Apart sell my own stuffs, is it possible to buy in items and resale to earn blue diamonds? (even with 10% fee)  
+  
+#### 1.4 What is the key to success in trading?
+
+  
+   
+   
 ### 2.How to use blue diamonds properly?  
+As long as you do the farming & trading properly, you surely will have certain amount of blue dianmonds. Then the next question is how to use it properly to increase our CP.  
+  
+#### 2.1 Buy Login Bundle  
+
+#### 2.2 Buy
+
+#### 2.3 Draw 
+
+#### 2.4 Buy stuffs from trading system directly
+
 ### 3.How to use adena properly?  
 ### 4.How to   
 ### 5.How to   
