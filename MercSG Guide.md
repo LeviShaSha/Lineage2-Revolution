@@ -99,52 +99,52 @@ Please refer to Advance Guides point 1
 
 ### 5.How to use red diamonds?
 Below are some ways of using red diamonds with highest CP:   
-#### 5.1 Reset Sub-quest**  
+#### 5.1 Reset Sub-quest    
 Again, Sub-quest scrolls are the key to gain exp & adena.
 
-#### 5.1 Extend Hot Time**  
+#### 5.1 Extend Hot Time    
 Compare to reset exp dungeon, I suggest you all to consider extent hot time to get tons of exp & items. Do note that during Hot Time, you can get really good staffs like tradeable S soul stones, tradeable A equipments, which could be selled at a great price in trading system. Also you can get black soul stone in elite dungeon.
 
-#### 5.2 Change Sub-stats of Equipments**  
+#### 5.2 Change Sub-stats of Equipments  
 In the late game, you will need to change sub-stats of your equipments. Each change requires 25/50/100 red diamonds for S/R/SR equipments. So you may want to save up some red diamonds beforehand. 
 
 **Note: If you bought some packages with $$ and have extra red diamonds - In early stage of the game, you may consider to draw the 1200 equip package to fast get S/R items. While in later stage of the game, you may consider to draw the 1200 material package to fast get S/R soul stones/blessed scrolls and so on.**  
 
 
-## Part 2 Advanced Guides
-### 1.How to use trade system?
-### 2.How to use blue diamonds properly?
-### 3.How to use adena properly?
-### 4.How to 
-### 5.How to 
-### 6.Trivia
+## Part 2 Advanced Guides  
+### 1.How to use trade system?  
+### 2.How to use blue diamonds properly?  
+### 3.How to use adena properly?  
+### 4.How to   
+### 5.How to   
+### 6.Trivia  
 
 
-## Part 3 Useful links
-Note: Take others' opinions as suggestion only. You need to find your own in-game path.
-
+## Part 3 Useful links  
+Note: Take others' opinions as suggestion only. You need to find your own in-game path.     
+   
 BBS:
-团长说：https://www.youtube.com/channel/UCiJg7Z7dh3amoy9eAe_DkOw
-巴哈姆特：https://forum.gamer.com.tw/A.php?bsn=30843
-天堂2革命中文攻略網-遊戲戰紀: http://www.olgame.tw/l2r/
-天堂2：革命- 魔方網-最專業的攻略專區: http://www.mofang.com.tw/lineage2/
-天堂2革命手遊Wiki百科- 巴哈姆特: https://guild.gamer.com.tw/wikimenu.php?sn=11665
-
+团长说：https://www.youtube.com/channel/UCiJg7Z7dh3amoy9eAe_DkOw  
+巴哈姆特：https://forum.gamer.com.tw/A.php?bsn=30843  
+天堂2革命中文攻略網-遊戲戰紀: http://www.olgame.tw/l2r/  
+天堂2：革命- 魔方網-最專業的攻略專區: http://www.mofang.com.tw/lineage2/  
+天堂2革命手遊Wiki百科- 巴哈姆特: https://guild.gamer.com.tw/wikimenu.php?sn=11665  
+  
 Articles:
 新手攻略(For Newbies)：
-1) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=59&lorder=9&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
-
-2) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=65&lorder=1&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
-
-3) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=87&lorder=5&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
-
-搜魂石(Soul Stone):
-https://forum.gamer.com.tw/G1.php?bsn=30843&parent=56
-
-装备属性洗炼(Change Substats)：
-1） http://wdtrips.com/bbs/thread-634-1-1.html
-
-2） https://guild.gamer.com.tw/wiki.php?sn=11665&n=%E6%B4%97%E9%8D%8A%E5%B1%AC%E6%80%A7&f=M
+1) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=59&lorder=9&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98  
+  
+2) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=65&lorder=1&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98  
+  
+3) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=87&lorder=5&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98  
+  
+搜魂石(Soul Stone):  
+https://forum.gamer.com.tw/G1.php?bsn=30843&parent=56  
+  
+装备属性洗炼(Change Substats)：  
+1） http://wdtrips.com/bbs/thread-634-1-1.html  
+  
+2） https://guild.gamer.com.tw/wiki.php?sn=11665&n=%E6%B4%97%E9%8D%8A%E5%B1%AC%E6%80%A7&f=M  
 
 
 
