@@ -18,6 +18,7 @@
  3) Good luck!!!  
 
 
+
 ### 2.How to level up fast?
 **--> Sub-quest Scrolls, Hot Time & Efficient Field Hunting!!!**  
 #### 2.1 Sub-quest Scroll  
@@ -49,26 +50,31 @@ I can assure you - "NO. CANNOT STACK".
 Depends.  
 -If you have enough damage, please solo farm in Hot Time to maximize your acquisition of exp & items. Try pull 3-4 monsters together, use soulshots.  
   
--If you are tank/heal and dont have enough damage, try party up with 1-2 to farm monsters. 5 man party is not always the best option - teamates will share your Hot Time exp and item drop lol.  
+-If you are tank/healer and dont have enough damage, try party up with 1-2 to farm monsters. 5 man party is not always the best option - teamates will share your Hot Time exp and item drop lol.  
   
 #### 2.3 Efficient Field Hunting/Farming**
 Field hunting/farming is the most important way of getting resource in this game. I spent 10+ hrs on afk field farming per day, which potentially can give me sub-quest scrolls, codex, few adena, runes, upgrade stones, enhancement scrolls, Maphr's protection and so on. Among these stuffs, the main purpose of field farming is to get enough **sub-quest scrolls & codex**.  
+  
 ##### 2.3.1 How should i choose the spot for afk field farming?    
 Step 1, find a monster near your level to farm.    
 Step 2, move to the spot of monsters & find a place got few ppl and surrounded by target monsters.    
-Step 3, start auto mode to test for a few minutes - to check whether you will die/whether you farm too slowly(Monster-clearance speed << Monster-revive speed)   
+Step 3, start auto mode to test for a few minutes - to check whether you will die/whether you farm too slowly(Monster-clearance speed << Monster-revive speed) or the other way round/....   
 Step 4, adjust your spot/party up/change to another monster spot/... according to your test result in step 3.   
    
 ##### 2.3.2 Should i party up for field hunting?  
-Similary to Hot time farming, please refer to 2.2.2 .  
+Similary to Hot time farming, if your have enough damage, just solo farm. If damage not enough, then party up. Do remember your party members will share the drop items.
   
-##### 2.3.3 I found that overnight field farming waste many red/blue potions. Worth or not?  
-Definitely worth it. There are some ways to reduce the cost.  
+##### 2.3.3 I found that overnight field farming waste many HP/MP potions. Worth or not?  
+Definitely worth it. There are some ways to reduce the cost of HP/MP potions.  
   
-If you are DPS, try change sub-attribute of weapon/necklace/.. to get HP-Drain.  
-If you are Mage, try to get MP Reg attribute.  
-If you are Tank, ...party up maybe...  
+If you are DPS, try change sub-stats of weapon/necklace/.. to get HP-Drain so as to save HP potions.  
+If you are Mage, try to get MP Reg sub-stats & soul stone sub-attribute so as to save MP potions.  
+If you are Tank, ...party up maybe...the damage may not be enough even you can tank.  
+
+However, do have a long-term view and don't anyhow change the sub-stats just for cost-saving because it is really expensvie....
   
+   
+   
 ### 3.How to farm more adena?
 **--> Sub-quest Scrolls & Sell Unnecessary Items**  
 
@@ -78,26 +84,40 @@ Please refer to 2.1
 #### 2.2 Sell Unnecessary Items  
 Believe me..You really don't have to use every C equipment for Level Up...Do remember to clear your bag in the morning/at noon so that you can keep getting new items during day-time field famring.     
   
+  
+  
 ### 4.How to get various enhancement materials?  
-**--> Efficient Field Hunting & Trading**    
+**--> Efficient Field Farming & Trading**    
+  
+#### 4.1 Efficient Field Farming   
+Please refer to 2.3  
+  
+#### 4.2 Trading  
+Please refer to Advance Guides point 1
+
+
 
 ### 5.How to use red diamonds?
-Below are few High CP ways of using red diamonds:   
-**5.1 Reset Sub-quest**  
-**5.1 Extend Hot Time**  
-**5.2 Change Sub-Attributes of Equipments**  
+Below are some ways of using red diamonds with highest CP:   
+#### 5.1 Reset Sub-quest**  
+Again, Sub-quest scrolls are the key to gain exp & adena.
 
+#### 5.1 Extend Hot Time**  
+Compare to reset exp dungeon, I suggest you all to consider extent hot time to get tons of exp & items. Do note that during Hot Time, you can get really good staffs like tradeable S soul stones, tradeable A equipments, which could be selled at a great price in trading system. Also you can get black soul stone in elite dungeon.
 
+#### 5.2 Change Sub-stats of Equipments**  
+In the late game, you will need to change sub-stats of your equipments. Each change requires 25/50/100 red diamonds for S/R/SR equipments. So you may want to save up some red diamonds beforehand. 
 
+**Note: If you bought some packages with $$ and have extra red diamonds - In early stage of the game, you may consider to draw the 1200 equip package to fast get S/R items. While in later stage of the game, you may consider to draw the 1200 material package to fast get S/R soul stones/blessed scrolls and so on.**  
 
 
 ## Part 2 Advanced Guides
 ### 1.How to use trade system?
-### 1.How to 
-### 2.How to 
-### 3.How to
+### 2.How to use blue diamonds properly?
+### 3.How to use adena properly?
 ### 4.How to 
-### 5.Trivia
+### 5.How to 
+### 6.Trivia
 
 
 ## Part 3 Useful links
@@ -106,9 +126,12 @@ Note: Take others' opinions as suggestion only. You need to find your own in-gam
 BBS:
 团长说：https://www.youtube.com/channel/UCiJg7Z7dh3amoy9eAe_DkOw
 巴哈姆特：https://forum.gamer.com.tw/A.php?bsn=30843
+天堂2革命中文攻略網-遊戲戰紀: http://www.olgame.tw/l2r/
+天堂2：革命- 魔方網-最專業的攻略專區: http://www.mofang.com.tw/lineage2/
+天堂2革命手遊Wiki百科- 巴哈姆特: https://guild.gamer.com.tw/wikimenu.php?sn=11665
 
 Articles:
-新手攻略：
+新手攻略(For Newbies)：
 1) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=59&lorder=9&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
 
 2) https://forum.gamer.com.tw/G2.php?bsn=30843&parent=21&sn=65&lorder=1&ptitle=%E3%80%90%E9%81%8A%E6%88%B2%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9F%BA%E6%9C%AC%E8%A7%80%E5%BF%B5%E8%88%87%E7%9F%A5%E8%AD%98
