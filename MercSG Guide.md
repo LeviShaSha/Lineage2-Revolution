@@ -52,7 +52,7 @@ Depends.
   
 -If you are tank/healer and dont have enough damage, try party up with 1-2 to farm monsters. 5 man party is not always the best option - teamates will share your Hot Time exp and item drop lol.  
   
-#### 2.3 Efficient Field Hunting/Farming**
+#### 2.3 Efficient Field Hunting/Farming  
 Field hunting/farming is the most important way of getting resource in this game. I spent 10+ hrs on afk field farming per day, which potentially can give me sub-quest scrolls, codex, few adena, runes, upgrade stones, enhancement scrolls, Maphr's protection and so on. Among these stuffs, the main purpose of field farming is to get enough **sub-quest scrolls & codex**.  
   
 ##### 2.3.1 How should i choose the spot for afk field farming?    
