@@ -116,14 +116,36 @@ In the late game, you will need to change sub-stats of your equipments. Each cha
 Trading system is a platform for us to sell tradeable items (with blue diamonds mark). There will be min & max price limit when you sell items. And 10% fee will be taken by system when you successfully sell your item and collect payment.
 
 I myself do trading everyday and below are some screenshots of my trading rank & successful trades. In my opinion, trading system is really the place to make fortune.
++图片图片图片
 
-#### 1.1 How can i earn blue diamonds to start my business?  
+#### 1.1 How can i earn blue diamonds to start my business?     
+As mentioned before, you can get quite some tradeable materials from field farming, such as upgrade stone, enhancement scrolls, maphr's protection and so on. Meanwhile, you can get tradeable Soul Stones from Elite Dungeon. Therefore, you can simply try sell these items to get your very first fortune. Then you can start your business:D  
    
-#### 1.2 What items are hot on market so i know what to sell?
-  
+#### 1.2 What items are hot on market so i know what to sell?  
+Depends on the server, timing & game update. For example: (not limited to)
+--Some server more rich players, some servers less...(I guess new server less)
+--During first half of month, you may sell R&SR normal items;but after 1 months, no one buys.
+
+**You have to constantly checking the market and figure out which one is hot.**
+
+For my server - gludios 2, Armor Upgrade Stone is kind of hot right now. I can always sell at around 90. It has been one month since the server opened, and it is now the timing for players to upgrade normal items to SR & combine massively for rare items then upgrade. Since we have only 1 weapon but 4 armors, we all lack armor upgrade stones. Thus, i foresee the armor upgrade stone to be hot for next 1 or 2 months.
+
+However, there are some items are always hot - Rare equipments & Blessed scrolls.
+
 #### 1.3 Apart sell my own stuffs, is it possible to buy in items and resale to earn blue diamonds? (even with 10% fee)  
+Yes, Of course. Here are some examples from my trading history.
++图片图片
+
+To do this kind of resale business, you must take note of some points:  
+1) You must be aware of the current price situation for the item. Buy in with low price and sell out with higher price (must be acceptable by market). Make sure your profit can cover the 10% fee.  
   
-#### 1.4 What is the key to success in trading?
+2) Where there is money to earn, there is risk. Market can change at any time, so make sure you can take the risk, which means you still have some blue diamonds to keep the business going on even if you fail to resell the item you buy in. If you don't really have a fortune to spare, please try this only on cheap items like the armor upgrade stone i tried before.
+
+Actually besides this resale business, I also sense some opportunity in process-then-sell business.
+
+#### 1.5 What price should i set for my items to sell?
+  
+#### 1.6 What is the key to success in trading?
 
   
    
