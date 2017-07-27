@@ -150,10 +150,13 @@ Depends on the current market situation lol..
 -For rare items, you can just set the max price. If you cannot sell at max price then gradually adjust down bit by bit lol. Be patient and sell with a good price. E.g., Rare weapon/armor, Blessed scrolls and so on.
   
 #### 1.6 What is the key to success in trading?
-
-  
-   
-   
+**1) Efficient Item/Material Farming **    
+This is the base for your trading. Actually it's the base of the game lol. If you don't bother to do resale business then this is the only source of your blue diamonds. 
+    
+**2) Consistent Monitoring of Market Price & Patience**  
+Em...Just keep checking the market when you auto doing quest, buy in with super low price and sell at a high price. You may need to wait a few days before the market trend change to your favor. So just be patient. Anyway, you can use the item if you really cannot gain profit from it...   
+![Trading System](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/Tears.jpg "Trading System")    
+ 
 ### 2.How to use blue diamonds properly?  
 As long as you do the farming & trading properly, you surely will have certain amount of blue dianmonds. Then the next question is how to use it properly to increase our CP.  
   
