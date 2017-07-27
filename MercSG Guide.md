@@ -25,8 +25,7 @@
 Sub-quest scroll looks like this:  
 ![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/sub-quest%20scroll.JPG "Sub-quest Scroll")  
   
-By compeleting sub-quests, you can gain plenty of Exp & Adena:
-![Sub-quest Scroll](https://github.com/LeviShaSha/Lineage2-Revolution/blob/master/Materials/Sub-quest%20scroll%20Rewards.png "Sub-quest Scroll") 
+By compeleting sub-quests, you can gain plenty of Exp & Adena.
   
 We can do Sub-quest 5 times using Sub-quest scrolls per day. However, 3 times of resetting is allowed with cost of 50 red diamonds each, which means we can do 15 more Sub-quest per day. THIS IS HELL LOT OF EXP & ADENA!!!
   
