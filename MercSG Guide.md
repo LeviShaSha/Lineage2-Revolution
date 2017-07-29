@@ -172,9 +172,9 @@ As long as you do the farming & trading properly, you surely will have certain a
 ### 4.How to   
 ### 5.How to   
 ### 6.Trivia  
-**Bind Yellow Herb to get Double Exp Potion!!!**
-**You can get scrolls/runes/enhancement meterials in summon stone dungeon also with monsters near ur lvl**
-**Use Core Potion in Summon Stones!!!!!!Hell lot of core**
+**-Bind Yellow Herb to get Double Exp Potion!!!**    
+**-You can get scrolls/runes/enhancement meterials in summon stone dungeon also with monsters near ur lvl**   
+**-Use Core Potion in Summon Stones!!!!!!Hell lot of core**    
 
 
 ## Part 3 Useful links  
