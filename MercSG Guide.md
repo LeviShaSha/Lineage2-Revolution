@@ -162,9 +162,9 @@ As long as you do the farming & trading properly, you surely will have certain a
   
 #### 2.1 Buy Login Bundle  
 
-#### 2.2 Buy
+#### 2.2 Buy 8500 red gem package
 
-#### 2.3 Draw 
+#### 2.3 Draw 1200 material bundle
 
 #### 2.4 Buy stuffs from trading system directly
 
